@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hiral2212
+- 👋 Hi, I’m Hiral Khaniya 
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front-hand technology.
 
